@@ -1,0 +1,11 @@
+
+
+
+/*  Building the css styles for responsiveness for the landing Pages */
+@media screen and (max-width:976px) {
+    #landingPage{
+        height: 1000px;
+        background-color: rgb(14, 15, 15);
+    }
+    
+}
